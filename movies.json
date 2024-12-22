@@ -1,0 +1,14 @@
+[
+    {
+        "title": "test",
+        "director": "testo",
+        "genre": "testi",
+        "release_year": "13123"
+    },
+    {
+        "title": "john",
+        "director": "bryce",
+        "genre": "python",
+        "release_year": "123213141"
+    }
+]
